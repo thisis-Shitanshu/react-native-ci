@@ -181,3 +181,7 @@
     - If you’re planning to build for both Android and iOS, you should also create the other app on App Center if you haven’t done so already.
 1. Switch back to App Center and click on the Build menu on the sidebar.
     - It will ask you to connect your code repo.
+    - Currently:
+        1. I am adding a git repo to my recently created ReactNativeCI Project.
+        1. I have then created a branch.
+        1. I am pushing the changes to the repo.
