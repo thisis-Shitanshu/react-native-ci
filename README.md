@@ -185,3 +185,17 @@
         1. I am adding a git repo to my recently created ReactNativeCI Project.
         1. I have then created a branch.
         1. I am pushing the changes to the repo.
+    - Click on the gear icon to configure the build for this specific branch: *master*
+    - From the Build configuration screen;
+        - We’re setting the Build Variant to debug so we don’t have to supply a release keystore file.
+        - The Build frequency is set to manual because we don’t really want to trigger a new build everytime we push some changes to the repo as we’re just testing things out.
+        - All the toggle buttons should be set to Off for now.
+    - Once you’re done with the configuration, click on Save & Build.
+        - In my case, it took four minutes.
+    - Once the build is complete;
+        - It should present you with a button to download the build (a .zip file containing the .apk file).
+        - But the app won’t really work because;
+            - We haven’t signed it yet.
+            - All apps need to be signed with a distribution certificate; 
+                - even if it’s not going to be released on any app store.
+        - *The only purpose of having you build is to make sure that the build succeeds and to get you acquainted with the App Center.*
