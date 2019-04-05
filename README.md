@@ -15,6 +15,8 @@
     - [x] Android or Xcode needs to be installed.
     - [x] Yarn should be installed.
 
+# The APPLICATION:
+![](./ssHome.jpg)
 
 # GETTING STARTED WITH CONTINUOUS INTEGRATION IN REACT NATIVE - PART 1: INTRODUCTION
 - What is Continous Integration?
@@ -199,3 +201,6 @@
             - All apps need to be signed with a distribution certificate; 
                 - even if it’s not going to be released on any app store.
         - *The only purpose of having you build is to make sure that the build succeeds and to get you acquainted with the App Center.*
+
+
+## Shot out too: https://pusher.com/tutorials/
