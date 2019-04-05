@@ -16,7 +16,7 @@
     - [x] Yarn should be installed.
 
 # The APPLICATION:
-![](./ssHome.jpg)
+![](./ssHome.png)
 
 # GETTING STARTED WITH CONTINUOUS INTEGRATION IN REACT NATIVE - PART 1: INTRODUCTION
 - What is Continous Integration?
